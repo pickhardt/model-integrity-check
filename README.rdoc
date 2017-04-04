@@ -1,0 +1,3 @@
+= Model Integrity Check
+
+== aka "The MIC Check for Rails"
