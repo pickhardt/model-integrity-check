@@ -1,3 +1,9 @@
 = Model Integrity Check
 
 == aka "The MIC Check for Rails"
+
+Is the data in your Rails database getting out of sync with the models? How many rows wouldn't pass the validity tests? Find out with the Model Integrity Check.
+
+Add it with gem 'model_integrity_check;
+
+Use it with `rake mic_check model_name_goes_here`

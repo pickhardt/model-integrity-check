@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = ModelIntegrityCheck::VERSION
   s.authors     = ["Jeff Pickhardt"]
   s.email       = ["pickhardt@gmail.com"]
-  s.homepage    = "http://supportedsource.org/projects/model-integrity-check"
+  s.homepage    = "http://supso.org/projects/model-integrity-check"
   s.summary     = "Gives reports on invalid models."
   s.description = "Check your Rails models to see how many are invalid."
   s.license     = "TBD"
